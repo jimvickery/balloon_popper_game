@@ -1,5 +1,7 @@
 # Balloon-Popper
-A  balloon popping game for Android
+A  balloon popping game for Android.
+
+![Alt text](balloongm.png?raw=true "Title")
 
 1. Clone the Repo
 2. Open the repo in Android Studio
