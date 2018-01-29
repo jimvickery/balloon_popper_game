@@ -2,6 +2,7 @@
 A  balloon popping game for Android.
 
 ![Alt text](balloongm.png?raw=true "Title")
+
 This game was built in Java using the Android Studio IDE.
 
 1. Clone the Repo
