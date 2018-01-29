@@ -1,5 +1,12 @@
 # Balloon-Popper
-A simple balloon popping game for Android
-by David Gassner
-for a course on Android development on Lynda.com
-# balloon_popper_game
+A  balloon popping game for Android
+
+1. Clone the Repo
+2. Open the repo in Android Studio
+3. Run the program inside  Android Studio.
+4. Or go to google play store and download the game for free on an Android device from https://play.google.com/store/apps/details?id=com.investprofits.jimvickery.balloonpopper
+5. Enjoy.
+
+
+
+
