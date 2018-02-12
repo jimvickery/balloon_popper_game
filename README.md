@@ -21,7 +21,7 @@ Download and install Android Studio at: https://developer.android.com/studio/ind
 3. Run the program inside  Android Studio.
 ```
 ```
-4. To see the game in action go to google play store and download the game for free on an Android device at:
+4. To see the game in action go to google play store and download the game for free on an Android device:
 ```
  https://play.google.com/store/apps/details?id=com.investprofits.jimvickery.balloonpopper
 
