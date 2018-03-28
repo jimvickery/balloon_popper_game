@@ -9,6 +9,7 @@ This game was built in Java using the Android Studio IDE.
 Download and install Android Studio at: https://developer.android.com/studio/index.html
 
 <br>
+
 ## Deployment Instructions:
 
 ```
