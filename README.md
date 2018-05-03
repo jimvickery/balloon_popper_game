@@ -13,7 +13,7 @@ Download and install Android Studio at: https://developer.android.com/studio/ind
 ## Deployment Instructions:
 
 ```
-1. Clone the Repo
+1. Clone or fork the Repo
 ```
 ```
 2. Open the repo in Android Studio
