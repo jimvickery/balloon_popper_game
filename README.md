@@ -3,7 +3,7 @@ This is a balloon popping game for Android built with Java and Android Studio ID
 
 ![Alt text](balloongm.png?raw=true "Title")
 
-This game was built in Java using the Android Studio IDE.
+This game built in Java using the Android Studio IDE.
 
 ## Requirements: 
 Download and install Android Studio at: https://developer.android.com/studio/index.html
